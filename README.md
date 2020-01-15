@@ -1,3 +1,3 @@
 This site can be viewed at
 
-https://aivanova569.github.io/marta-up/
+https://aivanova569.github.io/marta-up/index.html
